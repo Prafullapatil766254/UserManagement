@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /DemoProject
+  port: 8081
